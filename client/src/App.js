@@ -3,7 +3,6 @@ import axios from 'axios';
 import { Route, Switch } from 'react-router-dom';
 import SavedList from './Movies/SavedList';
 import MovieList from './Movies/MovieList';
-// import MovieCard from './Movies/MovieCard';
 import Movie from './Movies/Movie';
 
 export default function App () {
